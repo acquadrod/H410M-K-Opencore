@@ -24,3 +24,4 @@ ENABLE
 - SATA Mode: AHCI (not found on my BIOS version)
 
 Succeded with Big Sur on AFPS disk.
+USB plugin not work.  only USB on boot are seen
